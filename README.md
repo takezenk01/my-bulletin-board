@@ -6,6 +6,6 @@
 
 使用言語：HTML、CSS、PHP
 
-使用DB　　　：MariaDB、MySQL
+使用DB：MariaDB、MySQL
 
 開発環境：XAMPP
