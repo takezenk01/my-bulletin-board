@@ -1,0 +1,52 @@
+.data_table{
+    margin-bottom: 40px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th{
+    height: 40px;
+}
+
+/*名前*/
+.name_cell{
+    border: 1px solid black;
+    height: 30px;
+    width: 150px;
+}
+
+/*投稿日時*/
+.date_cell{
+    border: 1px solid black;
+    width: 150px;
+}
+
+/*本文*/
+.content_cell{
+    border: 1px solid black;
+    width: 300px;
+}
+
+.table_label{
+    text-align: left;
+    width: 50px;
+}
+
+.name_box{
+    width: 200px;
+}
+
+.content_box{
+    width: 400px;
+}
+
+button[type=submit]{
+    margin: 20px 370px;
+    width:100px;
+    height:30px;
+    color: white;
+    font-size: large;
+    border-radius: 100vh;
+    background-color: blue;
+}
